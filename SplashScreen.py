@@ -64,4 +64,3 @@ if __name__ == '__main__':
     Button(sp, text="Instructions", bg='blue', command=Instructions).pack(side=BOTTOM, fill=X)
     Button(sp, text="Start", bg='blue', command=Start).pack(side=BOTTOM, fill=X)
     root.mainloop()
-
