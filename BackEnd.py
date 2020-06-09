@@ -1,3 +1,7 @@
+REFERENCES FOR THE CODE:
+    https://pysource.com/category/tutorials/gaze-controlled-keyboard/
+    https://towardsdatascience.com/mouse-control-facial-movements-hci-app-c16b0494a971#:~:text=Mouse%20Cursor%20Control%20Using%20Facial%20Movements%20%E2%80%94%20An%20HCI%20Application,-Akshay%20L%20Chandra&text=This%20HCI%20(Human%2DComputer%20Interaction,wearable%20hardware%20or%20sensors%20needed.
+
 import cv2
 import numpy as np
 import dlib
